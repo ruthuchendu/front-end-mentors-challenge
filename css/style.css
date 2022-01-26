@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 11px;
+  text-align: center;
+  background-color: #d2e1e9;
+}
+.box {
+  height: 60vh;
+  width: 30%;
+  text-align: center;
+  border-radius: 20%;
+  box-sizing: border-box;
+  /* background-color: #ffffff; */
+}
+.qr-code {
+  border-radius: 5%;
+  object-fit: contain;
+}
+h2 {
+  color: #1f3251;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-Height: 34px;
+  font-family: sans-serif;
+}
+p {
+  font-style: normal;
+  font-size: 17px;
+  line-height: 27px;
+  Color: #7b879d;
+  font-weight: 400;
+  font-family: sans-serif;
+  text-align: center;
+}
