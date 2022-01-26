@@ -16,6 +16,9 @@ body {
   background-color: #ffffff;
   margin: auto;
 }
+img { width: 30%;
+}
+
 .qr-code {
   border-radius: 5%;
   object-fit: fit;
