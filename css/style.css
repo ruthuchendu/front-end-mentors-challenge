@@ -24,6 +24,8 @@ img { width: 50%;
   object-fit: fit;
 }
 h2 {
+  margin: 20px auto;
+  padding: 5px;
   color: #1f3251;
   font-style: normal;
   font-weight: 700;
@@ -32,6 +34,8 @@ h2 {
   font-family: sans-serif;
 }
 p {
+  margin: auto;
+  padding: 5px;
   font-style: normal;
   font-size: 17px;
   line-height: 27px;
