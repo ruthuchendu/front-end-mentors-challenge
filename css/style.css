@@ -16,7 +16,7 @@ body {
   background-color: #ffffff;
   margin: auto;
 }
-img { width: 50%;
+/* img { width: 50%; */
 }
 
 .qr-code {
@@ -34,7 +34,7 @@ h2 {
   font-family: sans-serif;
 }
 p {
-  margin: auto;
+  margin: 20px auto;
   padding: 5px;
   font-style: normal;
   font-size: 17px;
